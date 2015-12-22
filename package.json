@@ -1,0 +1,32 @@
+{
+  "name": "permissionjs",
+  "version": "0.0.1",
+  "description": "PermissionJs. A micro service for managing database permissions in nodejs.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepmein/permissionjs.git"
+  },
+  "keywords": [
+    "permission",
+    "node",
+    "mongodb"
+  ],
+  "author": "sepmein@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sepmein/permissionjs/issues"
+  },
+  "homepage": "https://github.com/sepmein/permissionjs#readme",
+  "devDependencies": {
+    "babel-core": "^6.3.21",
+    "chai": "^3.4.1",
+    "mongodb": "^2.0.52"
+  },
+  "dependencies": {
+    "babel-preset-stage-3": "^6.3.13"
+  }
+}
