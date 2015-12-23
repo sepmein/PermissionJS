@@ -1,5 +1,5 @@
 {
-  "name": "permissionjs",
+  "name": "crud-permission",
   "version": "0.0.2",
   "description": "PermissionJs. A micro service for managing database permissions in nodejs.",
   "main": "src/index.js",
