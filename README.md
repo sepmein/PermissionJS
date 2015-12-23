@@ -1,2 +1,2 @@
 # PermissionJS
-nodejs permission system for database.
+NodeJs CRUD permission system compatible with mongodb.
