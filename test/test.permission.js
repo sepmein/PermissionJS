@@ -5,7 +5,7 @@
 const expect = require('chai').expect;
 
 describe('permission', function () {
-    let P = require('../lib/permission');
+    let P = require('../lib/restriction');
     describe('set permission', function () {
         it('should be able to set an Integer as permission', function () {
             let p = new P();
