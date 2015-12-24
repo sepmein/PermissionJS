@@ -1,6 +1,6 @@
 {
   "name": "crud-permission",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "PermissionJs. A micro service for managing database permissions in nodejs.",
   "main": "src/index.js",
   "scripts": {
@@ -27,6 +27,7 @@
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "gulp-babel": "^6.1.1",
+    "gulp-rimraf": "^0.2.0",
     "mongodb": "^2.0.52"
   },
   "dependencies": {
